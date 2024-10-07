@@ -407,6 +407,7 @@ ul {
 .about-content .about-box-text p {
   color: #343434;
   margin-bottom: 20px;
+  text-align: justify;
 }
 
 .about-content .primary-button a:hover {
