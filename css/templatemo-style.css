@@ -16,7 +16,7 @@ p {
 }
 
 a {
-  color: #ff6;
+  color: #ffc200;
 }
 
 a:hover {
@@ -31,7 +31,7 @@ ul {
 
 .primary-button a {
   display: inline-block;
-  background-color: #fa5252;
+  background-color: #ffc200;
   color: #fff;
   letter-spacing: 1px;
   font-size: 11px;
@@ -114,7 +114,7 @@ ul {
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 .nav__link:hover {
-  background: #fa5252;
+  background: #ffc200;
 }
 @media (max-width: 640px) {
   .nav {
@@ -343,7 +343,7 @@ ul {
 }
 
 .home-content .left-text h4 em {
-  color: #fa5252;
+  color: #ffc200;
   font-style: normal;
 }
 
@@ -412,8 +412,8 @@ ul {
 
 .about-content .primary-button a:hover {
   background-color: transparent;
-  color: #fa5252;
-  border: 1px solid #fa5252;
+  color: #ffc200;
+  border: 1px solid #ffc200;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
@@ -474,8 +474,8 @@ ul {
 
 .projects-content .primary-button a:hover {
   background-color: transparent;
-  color: #fa5252;
-  border: 1px solid #fa5252;
+  color: #ffc200;
+  border: 1px solid #ffc200;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
@@ -541,7 +541,7 @@ ul {
 
 .contact-content button {
   display: inline-block;
-  background-color: #fa5252;
+  background-color: #ffc200;
   color: #fff;
   letter-spacing: 1px;
   font-size: 11px;
@@ -555,8 +555,8 @@ ul {
 
 .contact-content button:hover {
   background-color: transparent;
-  color: #fa5252;
-  border: 1px solid #fa5252;
+  color: #ffc200;
+  border: 1px solid #ffc200;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
@@ -1146,7 +1146,7 @@ body.lb-disable-scrolling {
 .owl-theme .owl-dots .active span {
   width: 10px;
   height: 10px;
-  background: #fa5252;
+  background: #ffc200;
   display: block;
   -webkit-backface-visibility: visible;
   transition: opacity 0.2s ease;
