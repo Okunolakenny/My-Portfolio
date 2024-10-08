@@ -380,7 +380,10 @@ https://templatemo.com/tm-505-stacked
               </div>
               <div class="col-md-12">
                 <div class="footer">
-                  <p>Copyright &copy; 2020 Your Company | Design: TemplateMo</p>
+                  <p>
+                    &copy; <span id="currentYear"></span> Okunola Kehinde. All
+                    rights reserved.
+                  </p>
                 </div>
               </div>
             </div>
@@ -395,6 +398,9 @@ https://templatemo.com/tm-505-stacked
         document.write(
           '<script src="js/vendor/jquery-1.11.2.min.js"><\/script>'
         );
+      const year = new Date().getFullYear();
+
+      document.getElementById("currentYear").textContent = year;
     </script>
 
     <script src="js/vendor/bootstrap.min.js"></script>
