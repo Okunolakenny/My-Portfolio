@@ -662,6 +662,8 @@ ul {
     padding: 0px 30px;
   }
   .project-item {
+    width: 80%;
+    margin: auto;
     padding: 0px 120px;
   }
   .project-item img {
